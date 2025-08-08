@@ -31,6 +31,7 @@ const Two = () => {
     <button className="absolute top-1 left-1 bg-gray-300 text-white text-xs px-2 py-1 rounded shadow hover:bg-gray-400 z-10">
       Favorite
     </button>
+    {/* This is just example */}
 
     {/* Heart Icon - Top Right */}
     <span className="absolute top-1 right-1 bg-transparent p-1 rounded-full shadow hover:scale-110 transition cursor-pointer">
